@@ -107,6 +107,7 @@ function WeatherApp() {
         <a
           href="https://www.linkedin.com/mwlite/in/ayomide-victor-ibidapo-1912541b4"
           target="_blank"
+          rel="noreferrer"
         >
           {" "}
           Ibidapo Ayomide
