@@ -66,7 +66,7 @@ function WeatherApp() {
               </p>
             ) : null}
           </div>
-          {weatherData.name != undefined && (
+          {weatherData.name !== undefined && (
             <div className="bottom">
               <div className="description">
                 <p>Description:</p>
